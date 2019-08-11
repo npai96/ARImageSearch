@@ -11,7 +11,6 @@ Created as a proof-of-concept experiment
 
 III. LIMITATIONS:
 - Google API limited to 100 searches per day
-- IBM Watson SDK only valid for a 30-day free trial
 
 IV. DEMO VIDEO:
 Available here: https://youtu.be/lYp0IpugUvQ
